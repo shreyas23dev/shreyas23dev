@@ -1,8 +1,8 @@
 ## Hi there 👋
+#Meee? 🐧 Coder. Linux Buff. Server Whisperer ...
 
+# shreyas23dev/shreyas23dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
-**shreyas23dev/shreyas23dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,4 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🐧 Coder. Linux Buff. Server Whisperer 
+
+### 📫 How to Reach Me? Addr: 127.0.0.1 😉
+<!--
+- Email: `your.email@example.com` (replace this)
+- GitHub: [shreyas23dev](https://github.com/shreyas23dev)
+
+-->
+
+### ⚡ Fun Fact
+
+> My servers panic less than most humans under pressure 😉
