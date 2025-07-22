@@ -1,7 +1,7 @@
-## Hi there 👋
-#Meee? 🐧 Coder. Linux Buff. Server Whisperer ...
+# Hi there folks 👋
+## Meee? 🐧 Coder. Linux Buff. Server Whisperer ...
 
-# shreyas23dev/shreyas23dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# shreyas23dev/shreyas23dev** is a ✨ _special_ ✨ repository because its my code diary.
 <!--
 Here are some ideas to get you started:
 
