@@ -2,10 +2,10 @@
 ## Meee? 🐧 Coder. Linux Buff. Server Whisperer ...
 
 ## shreyas23dev/shreyas23dev** is a ✨ _special_ ✨ repository because its my code diary.
-<!--
-Here are some ideas to get you started:
 
-🔭 I’m currently working on cloud
+Here are some ideas to get you started:
+> 🔭 I’m currently working on Cloud Technologies
+<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
