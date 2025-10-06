@@ -1,6 +1,6 @@
 # 👋 Hey there, Shreyas here!!
 
-### 🐧 Just a Coder, Linux Buff, and Server Whisperer.
+### 🐧 Just a NOOb Coder, Linux Buff, and Server Whisperer.
 
 ---
 
