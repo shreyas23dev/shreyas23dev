@@ -15,6 +15,5 @@ I'm always open to new ideas and conversations about tech.
 * 💬 **Ask me about:** Cloud Tech, servers, or general cloud strategy.
 * 📫 **How to reach me:** Addr: 127.0.0.1 😉
 
-### ✨ My Vibe
+### ✨ 
 
-I believe in simple, effective solutions and code that just works. Also, my servers are probably more relaxed than yours 😉
