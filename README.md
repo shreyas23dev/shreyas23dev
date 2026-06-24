@@ -8,21 +8,21 @@
 
 ☕ caffeine-powered lifeform
 
-🛡️ breaks things responsibly
+💀 professional bug hunter & bug creator
 
-🤖 making AI do analyst work
+🚀 building random stuff
 
 </td>
 
 <td width="50%">
 
-💀 bug hunter & bug creator
+### daily routine
 
-🌙 productive after midnight
-
-📚 cs student
-
-🚀 building random stuff
+1. get idea 💡
+2. start project 🚀
+3. overengineer it ⚙️
+4. question life choices 🤔
+5. somehow make it work ✅
 
 </td>
 </tr>
