@@ -2,7 +2,8 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="70%">
+
 
 🐧 linux enjoyer
 
