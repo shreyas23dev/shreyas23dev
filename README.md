@@ -2,85 +2,37 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### about me
+<td width="50%">
 
 🐧 linux enjoyer
 
-☕ running on caffeine and bad ideas
+☕ caffeine-powered lifeform
 
-🛡️ occasionally doing cybersecurity
+🛡️ breaks things responsibly
 
-🤖 teaching computers to investigate things
-
-🔍 professional bug hunter
-
-💀 professional bug creator
-
-🌙 most productive after midnight
+🤖 making AI do analyst work
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### current status
+💀 bug hunter & bug creator
+
+🌙 productive after midnight
+
+📚 cs student
+
+🚀 building random stuff
+
+</td>
+</tr>
+</table>
 
 ```python
 while alive:
     learn()
     build()
-    break()
     repeat()
 ```
 
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### currently cooking 🍳
-
-- building weird security tools
-- contributing to open source
-- arguing with python
-- automating everything
-- collecting unfinished projects
-
-</td>
-
-<td width="50%" valign="top">
-
-### daily routine
-
-1. get idea 💡
-2. start project 🚀
-3. overengineer it ⚙️
-4. question life choices 🤔
-5. somehow make it work ✅
-
-</td>
-</tr>
-</table>
-
----
-
-```bash
-$ whoami
-shreyas
-
-$ uptime
-too long
-
-$ sudo make me a sandwich
-okay 🥪
-```
-
-> "there is no place like 127.0.0.1"
-
-
+> "works on my machine"™
