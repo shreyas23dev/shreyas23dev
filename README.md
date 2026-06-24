@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="70%">
+<td width="60%">
 
 
 🐧 linux enjoyer
@@ -15,7 +15,8 @@
 
 </td>
 
-<td width="70%">
+<td width="60%">
+    
 ## Daily Routine
 
 1. get idea 💡
