@@ -16,7 +16,7 @@
 
 <td width="50%">
 
-### daily routine
+### Daily Routine
 
 1. get idea 💡
 2. start project 🚀
@@ -35,4 +35,4 @@ while alive:
     repeat()
 ```
 
-> "works on my machine"™
+> ""there is no place like 127.0.0.1"™
