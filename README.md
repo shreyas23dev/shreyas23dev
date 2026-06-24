@@ -23,7 +23,7 @@
 2. start project 🚀
 3. overengineer it ⚙️
 4. question life choices 🤔
-5. somehow make it work ✅
+5. somehow works ✅
 
 </td>
 </tr>
