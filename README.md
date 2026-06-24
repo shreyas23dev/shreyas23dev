@@ -15,7 +15,7 @@
 
 </td>
 
-<td width="60%">
+<td width="70%">
     
 ## Daily Routine
 
