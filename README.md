@@ -1,4 +1,4 @@
-# Hey, I'm SHREYAS.. 👋
+# Hey, I'm Shreyas.. 👋
 
 <table>
 <tr>
