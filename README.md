@@ -15,9 +15,8 @@
 
 </td>
 
-<td width="50%">
-
-### Daily Routine
+<td width="70%">
+## Daily Routine
 
 1. get idea 💡
 2. start project 🚀
