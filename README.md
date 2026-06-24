@@ -1,39 +1,74 @@
 # yo, i'm shreyas 👋
 
-```python
-while alive:
-    learn()
-    break_stuff()
-    fix_stuff()
-    repeat()
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### about me
 
 🐧 linux enjoyer
 
-☕ running on caffeine, curiosity, and questionable decisions
+☕ running on caffeine and bad ideas
 
 🛡️ occasionally doing cybersecurity
 
-🤖 teaching computers to investigate things so i can be lazy
+🤖 teaching computers to investigate things
 
-🔍 professional bug hunter (unprofessional bug creator)
+🔍 professional bug hunter
 
-🌙 most productive between "just one more commit" and sunrise
+💀 professional bug creator
 
-## currently cooking 🍳
+🌙 most productive after midnight
+
+</td>
+
+<td width="50%" valign="top">
+
+### current status
+
+```python
+while alive:
+    learn()
+    build()
+    break()
+    repeat()
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### currently cooking 🍳
 
 - building weird security tools
 - contributing to open source
 - arguing with python
-- automating things that probably shouldn't be automated
-- turning random ideas into unfinished repositories
+- automating everything
+- collecting unfinished projects
 
-## fun facts
+</td>
 
-- i use linux btw
-- my code works for reasons unknown
-- 90% of debugging is staring aggressively at the screen
-- every project starts with "this will be simple"
+<td width="50%" valign="top">
+
+### daily routine
+
+1. get idea 💡
+2. start project 🚀
+3. overengineer it ⚙️
+4. question life choices 🤔
+5. somehow make it work ✅
+
+</td>
+</tr>
+</table>
+
+---
 
 ```bash
 $ whoami
@@ -43,6 +78,9 @@ $ uptime
 too long
 
 $ sudo make me a sandwich
-[sudo] password:
 okay 🥪
 ```
+
+> "there is no place like 127.0.0.1"
+
+
