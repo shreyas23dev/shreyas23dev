@@ -1,19 +1,23 @@
-# 👋 Hey there, Shreyas here!!
+# Hey, I'm Shreyas 👋
 
-### 🐧 Just a NOOb Coder, Linux Buff, and Server Whisperer.
+💻 Breaks things to learn how they work
 
----
+🐧 Linux enjoyer
 
-### 🔭 What I Do
+☕ Powered by caffeine and bad ideas
 
-I love building and maintaining reliable systems. This GitHub is my personal space for logging my journey. Right now, I'm having a blast exploring new possibilities in Tech.
+🛡️ Sometimes doing cybersecurity
 
-### 🤝 Let's Connect
+🤖 Teaching computers to panic about vulnerabilities
 
-I'm always open to new ideas and conversations about tech.
+🔍 Professional bug hunter (the software kind)
 
-* 💬 **Ask me about:** Cloud Tech, servers, or general cloud strategy.
-* 📫 **How to reach me:** Addr: 127.0.0.1 😉
+🌙 Debugging at 2 AM because that's when the code reveals its secrets
 
-### ✨ 
+Currently:
+- Building random security tools
+- Contributing to open source
+- Fighting with Python
+- Pretending my projects are "research"
 
+> sudo make me a sandwich
