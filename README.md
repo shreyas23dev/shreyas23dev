@@ -4,9 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=550&lines=Security-focused+dev+%7C+Linux+enjoyer;Zero+Trust+%C2%B7+IoT+Security+%C2%B7+Adaptive+Vuln.+Prioritization;there+is+no+place+like+127.0.0.1" alt="Typing SVG"/>
 
-[![LinkedIn](https://img.shields.io/badge/-shreyas--a-0a0e14?style=flat-square&logo=linkedin&logoColor=39FF14&labelColor=0a0e14)](https://www.linkedin.com/in/shreyas-a-027823280/)
-![Views](https://komarev.com/ghpvc/?username=shreyas23dev&label=views&color=39FF14&style=flat-square)
-
 </div>
 
 ### `> ls /projects`
