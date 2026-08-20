@@ -6,12 +6,6 @@
 
 </div>
 
-### `> ls /projects`
-- 🛰️ **[Continuous Zero-Trust Calibration for Edge-IoT](https://github.com/shreyas23dev/Continuous-Zero-Trust-Calibration-for-Edge-IoT)** — trust dynamics + slow-burn attack detection
-- 🎯 **[ThreatLensAI](https://github.com/shreyas23dev/ThreatLensAI-HackMatrix2026)** — adaptive vuln prioritization + CTI dashboard
-- 🧩 **[Adaptive Vuln. Prioritization + MITRE ATT&CK](https://github.com/shreyas23dev/Adaptive-Vulnerability-Prioritization-with-MITRE-ATT-CK-Integration)** — CVSS + EPSS + ATT&CK scoring
-- 🛡️ **[HardenMe](https://github.com/shreyas23dev/HardenMe-)** — modular Linux hardening (Debian/Ubuntu/Kali)
-- 🔐 **[RSA for IoT](https://github.com/shreyas23dev/Optimizing-RSA-for-IoT-C-Implementation-was-a-part-of-side-channel-attack-counter-measure)** — side-channel resistant C implementation
 
 ### `> cat stack.conf`
 ![Python](https://img.shields.io/badge/-Python-0a0e14?style=flat-square&logo=python&logoColor=39FF14)
