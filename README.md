@@ -27,11 +27,3 @@
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-0a0e14?style=flat-square&logo=scikit-learn&logoColor=39FF14)
 ![Zero Trust](https://img.shields.io/badge/-Zero%20Trust-0a0e14?style=flat-square&color=39FF14)
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shreyas23dev&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e14&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&hide_title=true&height=150" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas23dev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0e14&title_color=39FF14&text_color=c9d1d9&height=150" width="34%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b263b,50:0d1b2a,100:0a0e14&height=90&section=footer"/>
-
-</div>
