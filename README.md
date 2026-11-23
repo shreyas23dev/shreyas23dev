@@ -13,7 +13,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/shreyas-a-027823280/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1424"/></a>
-<a href="https://orcid.org/0009-0005-0418-2459"><img src="https://img.shields.io/badge/ORCID-research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0d1424"/></a>
+<img src="https://img.shields.io/badge/security-researcher-00FF9C?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1424"/>
 <img src="https://img.shields.io/badge/location-India-ff2bd6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1424"/>
 <img src="https://komarev.com/ghpvc/?username=shreyas23dev&style=for-the-badge&color=00ff9c&label=PROFILE+HITS" alt="profile views"/>
 
@@ -141,7 +141,7 @@ PING shreyas (127.0.0.1): always up for cool security + ML ideas
 ```
 
 <a href="https://www.linkedin.com/in/shreyas-a-027823280/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://orcid.org/0009-0005-0418-2459"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-security_researcher-00FF9C?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 <a href="https://github.com/shreyas23dev?tab=repositories"><img src="https://img.shields.io/badge/-all_33+_repos-0d1424?style=for-the-badge&logo=github&logoColor=00ff9c"/></a>
 
 <br/><br/>
