@@ -29,49 +29,6 @@
 </div>
 
 <img src="assets/divider.svg" width="100%"/>
-
-<!-- ======================= PROJECTS ======================= -->
-<img src="assets/sec_projects.svg" height="64" alt="~/projects --pinned"/>
-
-<div align="center">
-
-<a href="https://github.com/shreyas23dev/Attack-Phase-Aware-Dynamic-Vulnerability-Prioritization-Framework">
-  <img src="assets/p_attackphase.svg" width="96%" alt="Attack-Phase Aware Dynamic Vulnerability Prioritization Framework"/>
-</a>
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/shreyas23dev/DataPrepX-A-tool-for-Enhancing-quality-through-pre-processing-technique-in-Data-Analytics">
-        <img src="assets/p_dataprepx.svg" width="100%" alt="DataPrepX"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/shreyas23dev/HardenMe-">
-        <img src="assets/p_hardenme.svg" width="100%" alt="HardenMe"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/shreyas23dev/Optimizing-RSA-for-IoT-C-Implementation-was-a-part-of-side-channel-attack-counter-measure">
-        <img src="assets/p_rsa.svg" width="100%" alt="Optimized RSA for IoT"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/shreyas23dev/Adaptive-Vulnerability-Prioritization-with-MITRE-ATT-CK-Integration">
-        <img src="assets/p_adaptive.svg" width="100%" alt="Adaptive Vulnerability Prioritization with MITRE ATT&CK"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<sub>👆 click any card to jack into the repo</sub>
-
-</div>
-
-<img src="assets/divider.svg" width="100%"/>
-
 <!-- ======================= ARSENAL ======================= -->
 <img src="assets/sec_arsenal.svg" height="64" alt="~/tech_arsenal"/>
 
